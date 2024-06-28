@@ -86,10 +86,9 @@ sudo chmod -R 755 /var/www/html
 ```
 - Cannot Connect to EC2 Instance: Ensure your security group allows incoming SSH (port 22) and HTTP (port 80) traffic.
 
-Conclusion
-You have successfully deployed a static website on an AWS EC2 instance. For more advanced setups, consider using services like AWS S3 for static site hosting, AWS CloudFront for CDN, and configuring domain names with Route 53.
+## Conclusion
+- You have successfully deployed a static website on an AWS EC2 instance. For more advanced setups, consider using services like AWS S3 for static site hosting, AWS CloudFront for CDN, and configuring domain names with Route 53.
 
-By following this guide, you should have your static website up and running on an AWS EC2 instance. For any further questions or improvements, feel free to contribute or open an issue.
+- By following this guide, you should have your static website up and running on an AWS EC2 instance. For any further questions or improvements, feel free to contribute or open an issue.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
